@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Ashish79097/DSA_Problems/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ashish79097/DSA_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/Ashish79097/DSA_Problems/tree/master/2956-find-common-elements-between-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -20,4 +21,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ashish79097/DSA_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Hash Table
+|  |
+| ------- |
+| [2956-find-common-elements-between-two-arrays](https://github.com/Ashish79097/DSA_Problems/tree/master/2956-find-common-elements-between-two-arrays) |
 <!---LeetCode Topics End-->
