@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Ashish79097/DSA_Problems/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ashish79097/DSA_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0704-binary-search](https://github.com/Ashish79097/DSA_Problems/tree/master/0704-binary-search) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Ashish79097/DSA_Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Ashish79097/DSA_Problems/tree/master/2956-find-common-elements-between-two-arrays) |
 ## Two Pointers
@@ -30,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Ashish79097/DSA_Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/Ashish79097/DSA_Problems/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
