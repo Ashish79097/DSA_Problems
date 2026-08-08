@@ -5,7 +5,9 @@ class Solution {
                 digits[i]++;
                 return digits;
             }
+            else{
             digits[i]=0;
+            }
         }
         int[] result = new int[digits.length +1];
         result[0] =1;
