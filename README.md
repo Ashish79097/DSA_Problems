@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/Ashish79097/DSA_Problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Ashish79097/DSA_Problems/tree/master/0069-sqrtx) |
+| [0441-arranging-coins](https://github.com/Ashish79097/DSA_Problems/tree/master/0441-arranging-coins) |
 | [0877-stone-game](https://github.com/Ashish79097/DSA_Problems/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Ashish79097/DSA_Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Ashish79097/DSA_Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ashish79097/DSA_Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/Ashish79097/DSA_Problems/tree/master/0069-sqrtx) |
+| [0441-arranging-coins](https://github.com/Ashish79097/DSA_Problems/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ashish79097/DSA_Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Ashish79097/DSA_Problems/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ashish79097/DSA_Problems/tree/master/0852-peak-index-in-a-mountain-array) |
