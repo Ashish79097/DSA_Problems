@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Ashish79097/DSA_Problems/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/Ashish79097/DSA_Problems/tree/master/0125-valid-palindrome) |
 ## Sorting
 |  |
 | ------- |
@@ -82,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Ashish79097/DSA_Problems/tree/master/0069-sqrtx) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Ashish79097/DSA_Problems/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
