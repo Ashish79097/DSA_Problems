@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Ashish79097/DSA_Problems/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Ashish79097/DSA_Problems/tree/master/0075-sort-colors) |
+| [0242-valid-anagram](https://github.com/Ashish79097/DSA_Problems/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Ashish79097/DSA_Problems/tree/master/0242-valid-anagram) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Ashish79097/DSA_Problems/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ashish79097/DSA_Problems/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Math
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Ashish79097/DSA_Problems/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/Ashish79097/DSA_Problems/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Ashish79097/DSA_Problems/tree/master/0242-valid-anagram) |
 ## Trie
 |  |
 | ------- |
